@@ -1,1 +1,1 @@
-Ejercicio de ejemplo, una especida de "Hola mundo!" en git.
+Ejercicio de ejemplo, una especie de "Hola mundo!" en git.
