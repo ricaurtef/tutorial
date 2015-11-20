@@ -1,1 +1,2 @@
 Ejercicio de ejemplo, una especie de "Hola mundo!" en git.
+add: Registra un cambio en un index
