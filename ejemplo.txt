@@ -1,2 +1,3 @@
 Ejercicio de ejemplo, una especie de "Hola mundo!" en git.
 add: Registra un cambio en un index
+pull: Obtiene el contenido de un repositorio remoto
